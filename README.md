@@ -1,5 +1,5 @@
-# AMAN MUKESHKUMAR BISEN 
-# 25BAI10198
+# GUNVANT SOLANKI
+# 25BAI11341
 # Athena — Modern Library Management System
 
 A complete, production-ready desktop application built in **Java (JDK 17+)** and **JavaFX** with a custom sleek dark-mode aesthetic (`#1E1E2E` Deep Slate with `#10B981` Emerald Green and `#3B82F6` Electric Blue accents). Backed by an embedded **SQLite** database via JDBC, strict `PreparedStatement` SQL safety, and a layered **DAO (Data Access Object)** architecture.
